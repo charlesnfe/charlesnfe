@@ -20,5 +20,6 @@
 <img align="center" alt="html5" src=https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white/>
 </div><br/>
 
+## 🚀 Sobre mim
 ###### Apaixonado por tecnologia, capoeira e música e outras coisinhas ...
 <h4 dir="auto">E-mail de contato: <a href="mailto:charlesnfe@hotmail.com">charlesnfe@hotmail.com</a></h4>
