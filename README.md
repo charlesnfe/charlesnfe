@@ -21,5 +21,11 @@
 </div><br/>
 
 ## 🚀 Sobre mim
-###### Apaixonado por tecnologia, capoeira e música e outras coisinhas ...
-<h4 dir="auto">E-mail de contato: <a href="mailto:charlesnfe@hotmail.com">charlesnfe@hotmail.com</a></h4>
+###### Mineiro, apaixonado por tecnologia, capoeira e música e outras coisinhas ...
+Você tem o direito de falar o que pensa.<br> 
+Mas não tem o direito de julgar quem não conhece.<br>
+Liberdade de expressão é um direito de todos.<br>
+Mas em vez de falar, então faça algo que preste. 'Charlie Brown Jr'
+
+## Contato
+Envie um e-mail para charlesnfe@hotmail.com
