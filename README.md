@@ -21,7 +21,7 @@
 </div><br/>
 
 ## 🚀 Sobre mim
-###### Mineiro, apaixonado por tecnologia, capoeira, música e outras coisas ...
+###### Mineiro, apaixonado por: tecnologia, capoeira, música e outras coisas ...
 Você tem o direito de falar o que pensa.<br> 
 Mas não tem o direito de julgar quem não conhece.<br>
 Liberdade de expressão é um direito de todos.<br>
