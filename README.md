@@ -8,6 +8,7 @@
 
 #### Commits públicos
 ![Charles GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesnfe&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesnfe)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Algumas tecnologias que uso no meu dia a dia.
 <div style="display: inline_block">
@@ -22,4 +23,3 @@
 
 ###### Apaixonado por tecnologia, capoeira e música e outras coisinhas ...
 <h4 dir="auto">E-mail de contato: <a href="mailto:charlesnfe@hotmail.com">charlesnfe@hotmail.com</a></h4>
-
