@@ -21,7 +21,5 @@
 </div><br/>
 
 ###### Apaixonado por tecnologia, capoeira e música e outras coisinhas ...
-###### Creio que a tecnologia irá mudar nossas vidas..
-
 <h4 dir="auto">E-mail de contato: <a href="mailto:charlesnfe@hotmail.com">charlesnfe@hotmail.com</a></h4>
 
