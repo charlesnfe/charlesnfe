@@ -24,7 +24,8 @@
 Você tem o direito de falar o que pensa.<br> 
 Mas não tem o direito de julgar quem não conhece.<br>
 Liberdade de expressão é um direito de todos.<br>
-Mas em vez de falar, então faça algo que preste. 'Charlie Brown Jr'
+Mas em vez de falar, então faça algo que preste.
+<br>'Charlie Brown Jr'
 
 ## Contato
 Envie um e-mail para charlesnfe@hotmail.com
