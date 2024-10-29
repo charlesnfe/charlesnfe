@@ -21,11 +21,7 @@
 
 ## 🚀 Sobre mim
 ###### Mineiro, apaixonado por: tecnologia, capoeira, música e outras coisas ...
-Você tem o direito de falar o que pensa.<br> 
-Mas não tem o direito de julgar quem não conhece.<br>
-Liberdade de expressão é um direito de todos.<br>
-Mas em vez de falar, então faça algo que preste.
-<br>'Charlie Brown Jr'
-
+Se você não trabalhar pelo seu sonho, você trabalhará pelos sonhos dos  outros.
+<br>
 ## Contato
 Envie um e-mail para charlesnfe@hotmail.com
